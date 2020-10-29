@@ -30,7 +30,7 @@ const Filter = ({ todo, clearTodo, filterTodo }) => {
           CLEAR ALL
         </button>
         <select
-          className="text-gray-800 cursor-pointer text-sm apprence-none border border-gray-400 
+          className="text-gray-800 cursor-pointer text-sm appearence-none bg-transparent border border-gray-800 
                                rounded focus:shadow-outline font-semibold focus:outline-none p-2"
           name="filter"
           id="filter"
